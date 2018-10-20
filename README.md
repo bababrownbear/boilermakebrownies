@@ -30,8 +30,12 @@ Login:
 
 
 ## Requirements
-* A user should be able to register for the application.
-* A user should be able to login to the application.
+* A user should be able to sign up for the application, providing demographic data.
+* A non authenticated user should see a list of previously voted items.
+* An authenticated user should be able to vote on a new vehicle comparison.
+* An authenticated user should be able to vote on an already existing comparison.
+* An authenticated user should be able to add comments on a new vote.
+* An authenticated user should be able to add comments on a previously voted item.
 
 ## Coding Guide
 * Always run code before pushing to remote, do not push broken code.
