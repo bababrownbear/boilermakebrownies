@@ -32,3 +32,7 @@ Login:
 ## Requirements
 * A user should be able to register for the application.
 * A user should be able to login to the application.
+
+## Coding Guide
+* Always run code before pushing to remote, do not push broken code.
+* Follow the folder structure given for front end development.
