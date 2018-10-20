@@ -19,3 +19,16 @@ We followed MongoDB's Stitch's templates for database rules.
 We're using Firebase/GCP for hosting.
 
 We bought the domain using domain.com.
+
+## Mockups
+
+Registration:
+![image](https://user-images.githubusercontent.com/29419183/47252363-6c38e280-d411-11e8-839d-295e26b0fe1c.png)
+
+Login:
+![image](https://user-images.githubusercontent.com/29419183/47252368-7f4bb280-d411-11e8-843e-53b56531f9d8.png)
+
+
+## Requirements
+* A user should be able to register for the application.
+* A user should be able to login to the application.
