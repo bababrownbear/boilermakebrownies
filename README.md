@@ -2,7 +2,7 @@
 
 Our team for boilermake6 is comprised of 1 second year pre-med student, 2 seniors completing their bachelors in Computer Science, and 1 software engineer completing his masters in Computer Science.
 
-The project is a simple voting app.
+The project is a simple voting app. It is hosted live [here](https://ilmstudios.github.io/boilermakebrownies/).
 
 A user can sign-up for a voting session, entering in some simple demographic data. A user can initiate a new vehicle pair to vote against from the menu or on the home screen. The vehicles are pulled on the fly from the Liberty Mutual Shine API. Some sample stats are shown on the compare page. The data pulled from Liberty Mutual is then run against Bing Image Search to pull the first result to display. The user can then vote for either vehicle, which gets saved to MongoDB. The vote feed page shows current votes in the system for vehicle compares. Other users can then add their vote. The plan with aggregating the demographics would be to show a demographics report based on the vehicles chosen.
 
