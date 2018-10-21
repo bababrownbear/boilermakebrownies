@@ -10,7 +10,7 @@ This vote will get saved to the landing page of the app where any user can see a
 
 We've divvied up the tasks as external API wrangler, 2 frontend devs, 1 devops/backend.
 
-We are using Angular 7, MongoDB Stitch, and Librerty Mutual Shine API.
+We are using Angular 7, MongoDB Stitch, Librerty Mutual Shine API, and Bing Image Search API.
 
 We've structured our Angular application into components, services, modules, and models.
 
