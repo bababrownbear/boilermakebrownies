@@ -14,7 +14,7 @@ We've structured our Angular application into components, services, modules, and
 
 We followed MongoDB's Stitch's templates for database rules.
 
-We're using Firebase/GCP for hosting.
+We're using GITHUB for hosting.
 
 ## Mockups
 
