@@ -2,11 +2,9 @@
 
 Our team for boilermake6 is comprised of 1 second year pre-med student, 2 seniors completing their bachelors in Computer Science, and 1 software engineer completing his masters in Computer Science.
 
-The project entails gathering choice info from Liberty Mutual's Shine API for 20 cities in the US.
+The project is a simple voting app.
 
-Given these datapoints, a user will login to our app and be presented with 2 random cities and will be asked to vote which city would they rather live in given the information provided about the city.
-
-This vote will get saved to the landing page of the app where any user can see and add their comment or vote.
+A user can sign-up for a voting session, entering in some simple demographic data. A user can initiate a new vehicle pair to vote against from the menu or on the home screen. The vehicles are pulled on the fly from the Liberty Mutual Shine API. Some sample stats are shown on the compare page. The data pulled from Liberty Mutual is then run against Bing Image Search to pull the first result to display. The user can then vote for either vehicle, which gets saved to MongoDB. The vote feed page shows current votes in the system for vehicle compares. Other users can then add their vote. The plan with aggregating the demographics would be to show a demographics report based on the vehicles chosen.
 
 We've divvied up the tasks as external API wrangler, 2 frontend devs, 1 devops/backend.
 
@@ -17,8 +15,6 @@ We've structured our Angular application into components, services, modules, and
 We followed MongoDB's Stitch's templates for database rules.
 
 We're using Firebase/GCP for hosting.
-
-We bought the domain using domain.com.
 
 ## Mockups
 
@@ -34,8 +30,6 @@ Login:
 * A non authenticated user should see a list of previously voted items.
 * An authenticated user should be able to vote on a new vehicle comparison.
 * An authenticated user should be able to vote on an already existing comparison.
-* An authenticated user should be able to add comments on a new vote.
-* An authenticated user should be able to add comments on a previously voted item.
 
 ## Coding Guide
 * Always run code before pushing to remote, do not push broken code.
