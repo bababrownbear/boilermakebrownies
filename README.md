@@ -34,3 +34,16 @@ Login:
 ## Coding Guide
 * Always run code before pushing to remote, do not push broken code.
 * Follow the folder structure given for front end development.
+
+## Final Screens
+
+![image](https://user-images.githubusercontent.com/29419183/47263427-89cc8180-d4cf-11e8-98b1-da149a191683.png)
+
+![image](https://user-images.githubusercontent.com/29419183/47263431-981a9d80-d4cf-11e8-945a-371ad614f946.png)
+
+![image](https://user-images.githubusercontent.com/29419183/47263438-a23c9c00-d4cf-11e8-8ef3-c62b3faacd05.png)
+
+![image](https://user-images.githubusercontent.com/29419183/47263440-b385a880-d4cf-11e8-9e1d-f274c36bcd58.png)
+
+![image](https://user-images.githubusercontent.com/29419183/47263445-d44dfe00-d4cf-11e8-9ca4-e7ed6b16a245.png)
+
